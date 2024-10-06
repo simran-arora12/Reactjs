@@ -1,10 +1,11 @@
-import Simran from "./Simran"
+// import Counter from "./counter"
 
 function App() {
   return (
     <>
-    <Simran></Simran>
-     <h1>Hello </h1>
+      <h1 className="mx-5 my-4">React Hooks</h1>
+    <br></br>
+   
     </>
   )
 }
